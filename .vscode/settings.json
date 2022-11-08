@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5e483c8a-e02b-4876-a19c-dccfa973a758/AppServices/subscriptions/5e483c8a-e02b-4876-a19c-dccfa973a758/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/msdocks-python-webapp-quickstart-XYZ",
+    "appService.deploySubpath": "."
+}
